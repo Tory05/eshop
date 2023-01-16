@@ -1,0 +1,15 @@
+
+.form-check{
+    padding-left: 2.5em;
+}
+main{
+    margin-top: 6rem;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center
+}
