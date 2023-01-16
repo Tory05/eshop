@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="140 153 545 343" width="405px" height="190px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <rect width="124" height="20" x="155" y="168" style="fill:#007;stroke:black;"/>
+   <text width="124" height="20" x="160" y="182" style="fill:#fff;" font-family="Arial" font-size="16px"> products</text>
+   <rect width="124" height="20" x="155" y="188" style="fill:#aea;stroke:black;"/>
+   <text width="124" height="20" x="160" y="202" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="124" height="20" x="155" y="208" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="160" y="222" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="124" height="20" x="155" y="228" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="160" y="242" style="fill:black;" font-family="Arial" font-size="16px">image</text>
+   <rect width="124" height="20" x="155" y="248" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="160" y="262" style="fill:black;" font-family="Arial" font-size="16px">price_of_sale</text>
+   <rect width="124" height="20" x="155" y="268" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="160" y="282" style="fill:black;" font-family="Arial" font-size="16px">base_unit</text>
+   <rect width="124" height="20" x="155" y="288" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="160" y="302" style="fill:black;" font-family="Arial" font-size="16px">description</text>
+   <rect width="124" height="20" x="155" y="308" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="160" y="322" style="fill:black;" font-family="Arial" font-size="16px">id_product_types</text>
+   <rect width="106" height="20" x="424" y="210" style="fill:#007;stroke:black;"/>
+   <text width="106" height="20" x="429" y="224" style="fill:#fff;" font-family="Arial" font-size="16px"> product_types</text>
+   <rect width="106" height="20" x="424" y="230" style="fill:#aea;stroke:black;"/>
+   <text width="106" height="20" x="429" y="244" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="106" height="20" x="424" y="250" style="fill:none;stroke:black;"/>
+   <text width="106" height="20" x="429" y="264" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+</svg>

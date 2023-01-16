@@ -68,11 +68,11 @@ if (isset($_GET["deletetype"])) {
   <h1>Adminisztráció</h1>
 <br/>
   <div class="row">
-  <h2>Termék típusok</h2>
+  <h2>Termék kategóriák</h2>
     <div class="col-md-6">
     <table class="table table-sm">
   <thead>
-    <th>Típus</th>
+    <th>Kategóriák</th>
     <th></th>
   </thead>
 
@@ -89,7 +89,7 @@ if (isset($_GET["deletetype"])) {
 </table>
       <form action="" method="post">
       <div class="mb-3">
-        <label class="form-label">Új típus:</label>
+        <label class="form-label">Új kategória:</label>
         <br/>
         <input class="form-control" type="text" id="newtype" name="newtype" class="from">
   </div>
