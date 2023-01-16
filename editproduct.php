@@ -76,7 +76,7 @@ if (
             <input type="text" id="description" class="form-control" name="description" value="<?= $prod[0]['description'] ?>">
           </div>
           <div class="mb-3">
-            <label for="description" class="form-label">Típus</label>
+            <label for="description" class="form-label">Kategória</label>
             <select class="form-select mb-3" name="type">
                 <?php foreach ($types as $type) : ?>
                     <option value="<?= $type['id'] ?>"<?=$prod[0]['id_product_types'] == $type['id'] ? ' selected="selected"' : '';?>>
